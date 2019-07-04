@@ -1,0 +1,13 @@
+[
+{"_id":0,"name":"aimee Zank","sem":6,"age":19,"USN":"1BM17CS001","password":"abcd","internship":[{"company":"MCAfee","stipend":10000 ,"sem":4}]},
+{"_id":1,"name":"Aurelia Menendez","sem":6,"age":19,"USN":"1BM17CS002","password":"abcd","internship":[{"company":"Amazon","stipend":5000,"sem":4}]},
+{"_id":2,"name":"Corliss Zuk","sem":6,"age":20,"USN":"1BM17CS003","password":"abcd","internship":[{"company":"Flipkart","stipend":15000,"sem":4}]},
+{"_id":3,"name":"Bao Ziglar","sem":6,"age":19,"USN":"1BM17CS004","password":"abcd","internship":[{"company":"TCS","stipend":0,"sem":2}]},
+{"_id":4,"name":"Zachary Langlais","sem":6,"age":19,"USN":"1BM17CS005","password":"abcd","internship":[{"company":"Flipkart","stipend":15000,"sem":4}]},
+{"_id":5,"name":"Wilburn Spiess","sem":6,"age":20,"USN":"1BM17CS006","password":"abcd","internship":[{"company":"MCAfee","stipend":16000,"sem":4}]},
+{"_id":6,"name":"Jenette Flanders","sem":6,"age":19,"USN":"1BM17CS007","password":"abcd","internship":[{"company":"Endurance","stipend":10000,"sem":2}]},
+{"_id":7,"name":"Salena Olmos","sem":8,"age":19,"USN":"1BM17CS008","password":"abcd","internship":[{"company":"Rakutan","stipend":5000,"sem":4}]},
+{"_id":8,"name":"Daphne Zheng","sem":4,"age":19,"USN":"1BM16CS001","password":"abcd","internship":[{"company":"InFormmatica","stipend":10000,"sem":4}]},
+{"_id":9,"name":"Sanda Ryba","sem":8,"age":19,"USN":"1BM16CS002","password":"abcd","internship":[{"company":"CISKO","stipend":5000,"sem":4}]},
+{"_id":10,"name":"Denisha Cast","sem":4,"age":20,"USN":"1BM16CS003","password":"abcd","internship":[{"company":"DISKO","stipend":4000,"sem":6}]}
+]
