@@ -22,6 +22,12 @@
   top: -400px;
   left: 650px;
 }
+#logout{
+
+  position:absolute;
+  top:500px;
+  left:600px;
+}
 .style10 {
   position: absolute;
   top: 10px;
@@ -133,6 +139,4 @@ table input {
   font-size: 20pt;
 }
 
-#a,#b,#c,#d{
-  margin-left:20px;
-}
+
