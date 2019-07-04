@@ -35,7 +35,6 @@ export default class Homepage extends React.Component {
   render() {
     
     return (
-      
       <div>
         <div id="info">
           <br />
@@ -137,23 +136,15 @@ export default class Homepage extends React.Component {
                 </td>
               </tr>
             </table>
-          {/* </form> */}
-         <center>
-            <br />
-            <br />
-            <Button className="click" variant="Dark">
-              <NavLink
+            <label id="logout">Click here to ----->
+           <NavLink
                 to={{
-                  pathname: "/viewdetails",
-                  aboutProps: {
-                    USN: this.props.location.aboutProps.USN
-                  }
+                  pathname: "/",
                 }}
               >
-                Click Here to view your details
+                LOGOUT
               </NavLink>
-            </Button>
-          </center>
+        </label>
         </div>
       </div>
     );
@@ -180,7 +171,7 @@ export default class Homepage extends React.Component {
   }
   postData() {
    
-    alert(this.props.location.aboutProps.USN);
+  
 
     const comp_name = this.state.comp_name;
     const sem = this.state.sem;
@@ -192,7 +183,7 @@ export default class Homepage extends React.Component {
       stipend,
       USN
     };
-alert("hi");
+
     Axios.post(
       "https://5szmwy6zia.execute-api.us-east-2.amazonaws.com/test/login/homepage",
       data
